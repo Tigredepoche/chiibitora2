@@ -1,0 +1,34 @@
+{
+  "name": "chibiitoraV2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "dotenv": "^7.0.0",
+    "figlet": "^1.2.1",
+    "firebase-admin": "^7.1.1",
+    "klasa": "github:dirigeants/klasa",
+    "klasa-dashboard-hooks": "github:dirigeants/klasa-dashboard-hooks",
+    "nekos.life": "^2.0.4",
+    "node-osu": "github:Tigredepoche/node-osu",
+    "nodesu": "^0.6.5",
+    "ojsama": "^1.2.1",
+    "oppai": "^0.1.19",
+    "pg": "^7.9.0",
+    "randomcolor": "^0.5.4",
+    "request": "^2.88.0",
+    "rethinkdbdash": "^2.3.31",
+    "youtube-search": "^1.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-klasa": "github:dirigeants/klasa-lint"
+  }
+}
